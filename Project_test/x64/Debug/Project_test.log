@@ -1,12 +1,12 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Project_test.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
   main.cpp
 F:\Dev\C++\SFML\Project_Minecrap\Project_test\main.cpp(8,22): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
-F:\Dev\C++\SFML\Project_Minecrap\Project_test\main.cpp(44,65): warning C4244: 'argumento': conversão de 'unsigned int' para 'T', possível perda de dados
+F:\Dev\C++\SFML\Project_Minecrap\Project_test\main.cpp(82,65): warning C4244: 'argumento': conversão de 'unsigned int' para 'T', possível perda de dados
           with
           [
               T=float
           ]
-F:\Dev\C++\SFML\Project_Minecrap\Project_test\main.cpp(44,47): warning C4244: 'argumento': conversão de 'unsigned int' para 'T', possível perda de dados
+F:\Dev\C++\SFML\Project_Minecrap\Project_test\main.cpp(82,47): warning C4244: 'argumento': conversão de 'unsigned int' para 'T', possível perda de dados
           with
           [
               T=float
